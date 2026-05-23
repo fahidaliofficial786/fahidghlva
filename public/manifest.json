@@ -1,0 +1,16 @@
+{
+  "name": "Fahid Ali - GoHighLevel Expert",
+  "short_name": "GHL Specialist",
+  "description": "Expert GoHighLevel Virtual Assistant providing premium automation and CRM setup.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
