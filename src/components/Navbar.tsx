@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <header className="absolute top-0 left-0 w-full h-20 px-6 sm:px-8 flex items-center justify-between border-b border-white/5 backdrop-blur-md z-50">
       <div className="flex items-center gap-3">
-        <div className="w-8 h-8 bg-gradient-to-tr from-cyan-500 via-purple-600 to-yellow-500 rounded-lg shadow-[0_0_15px_rgba(6,182,212,0.5)]"></div>
+        <img src="https://lh3.googleusercontent.com/d/1586CeovEpsWd6eK0WFq-9KSLkxRLMRoV" alt="Fahid Automations Logo" className="w-10 h-10 object-contain drop-shadow-[0_0_10px_rgba(6,182,212,0.3)]" />
         <span className="font-bold tracking-tighter text-lg sm:text-xl text-[#F5F5F7] whitespace-nowrap">
           Fahid <span className="text-cyan-400">GHL VA</span>
         </span>
